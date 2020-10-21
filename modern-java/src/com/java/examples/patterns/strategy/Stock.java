@@ -1,4 +1,4 @@
-package com.java.examples.patterns.iterator.domain;
+package com.java.examples.patterns.strategy;
 
 public class Stock {
 

@@ -1,8 +1,5 @@
 package com.java.examples.patterns.decorator;
 
-import com.java.examples.patterns.decorator.domain.Burger;
-import com.java.examples.patterns.decorator.domain.BurgerShop;
-
 public class DecoratorPattern {
 	
 	public static void main(String[] args) {

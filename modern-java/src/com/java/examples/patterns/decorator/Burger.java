@@ -1,4 +1,4 @@
-package com.java.examples.patterns.decorator.domain;
+package com.java.examples.patterns.decorator;
 
 public class Burger {
 

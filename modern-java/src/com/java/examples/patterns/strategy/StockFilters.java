@@ -1,4 +1,4 @@
-package com.java.examples.patterns.iterator.domain;
+package com.java.examples.patterns.strategy;
 
 import java.util.ArrayList;
 import java.util.List;

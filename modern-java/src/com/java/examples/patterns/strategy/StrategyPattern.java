@@ -1,10 +1,7 @@
-package com.java.examples.patterns.iterator;
+package com.java.examples.patterns.strategy;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import com.java.examples.patterns.iterator.domain.Stock;
-import com.java.examples.patterns.iterator.domain.StockFilters;
 
 public class StrategyPattern {
 
