@@ -25,4 +25,34 @@ Order of Files
 21. OperationsExample - map, flatMap, filter
 22. PureImpureFunctions
 23. PureFunctionsExample1
-24. 
+
+-- Functional Programming concepts --com.java.examples.function 
+24. Chaining
+25. Closures
+26. Composition
+27. Tail Call Optimization
+28. Higher Order Functions
+29. Currying
+
+-- Patterns using Functional Programming -- com.java.examples.patterns 
+30. Iterator 
+31. Strategy
+32. Decorator
+33. Fluent Interfaces
+34. Factory
+35. Builder
+36. Command
+
+-- Streams -- com.java.examples.streams
+37. ObservingTheStream
+38. SingleUse
+39. StreamOfExample
+40. StreamMethods
+41. NumericStreams
+42. Calculations
+43. 
+44. 
+45. 
+46.
+47.
+
