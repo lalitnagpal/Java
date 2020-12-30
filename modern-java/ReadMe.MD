@@ -50,9 +50,20 @@ Order of Files
 40. StreamMethods
 41. NumericStreams
 42. Calculations
-43. 
-44. 
-45. 
-46.
-47.
+43. BoundedStreams
+44. InfiniteStreams
+45. FlatMapExample
+46. ParallelStreamExample
+47. Parallelism
+48. SpliteratorExample
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+
+
+
 
