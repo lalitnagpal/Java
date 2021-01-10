@@ -1,5 +1,6 @@
+## Modern Java
 
-Order of Files
+##### Order of Files
 
 1. Regular Thread
 2. MyFunctionalInterface
@@ -26,7 +27,9 @@ Order of Files
 22. PureImpureFunctions
 23. PureFunctionsExample1
 
--- Functional Programming concepts --com.java.examples.function 
+### Functional Programming concepts 
+###### com.java.examples.function 
+
 24. Chaining
 25. Closures
 26. Composition
@@ -34,7 +37,9 @@ Order of Files
 28. Higher Order Functions
 29. Currying
 
--- Patterns using Functional Programming -- com.java.examples.patterns 
+### Patterns using Functional Programming 
+###### com.java.examples.patterns 
+
 30. Iterator 
 31. Strategy
 32. Decorator
@@ -43,7 +48,9 @@ Order of Files
 35. Builder
 36. Command
 
--- Streams -- com.java.examples.streams
+### Streams 
+###### com.java.examples.streams
+
 37. ObservingTheStream
 38. SingleUse
 39. StreamOfExample
@@ -55,14 +62,49 @@ Order of Files
 45. FlatMapExample
 46. ParallelStreamExample
 47. Parallelism
+
+### Streams -- Spliterator 
+###### com.java.examples.streams.spliterator
+
 48. SpliteratorExample
-49.
-50.
-51.
-52.
-53.
-54.
-55.
+49. CustomerSpliteratorExample, BookSpliterator
+50. CollectorsInAction, Employee, EmployeeSpliterator
+51. CollectorsInActionTwo, Employee, EmployeeSpliterator
+52. CollectorsInActionThree, Employee, EmployeeSpliterator
+53. com.java.examples.streams.custom.collector.CustomCollector
+
+### Playing with Collections 
+###### com.java.examples.playing.with.collections
+
+54. ListFunctionalOperations, Movie.java
+55. SetFunctionalOperations, Movie.java
+56.
+57. 
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+
 
 
 
