@@ -78,11 +78,15 @@
 
 54. ListFunctionalOperations, Movie.java
 55. SetFunctionalOperations, Movie.java
-56.
-57. 
-58.
-59.
-60.
+56. TreeFunctionalOperations
+57. MapFunctionalOperations
+
+### Rx Java - Reactive Programming
+###### com.java.examples.rx
+
+58. CallBackDemo, CallBackIntf
+59. CallBackDemoWithObservableDP, CallBack
+60. SubjectLibrary, EndUser, Book, Observer, ObserverDesignPattern ( com.java.examples.rx.observer )
 61.
 62.
 63.
